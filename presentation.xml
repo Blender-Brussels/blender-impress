@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!-- Slides for the Kriekelaar exhibition, June-July 2104, Brussels, Belgium -->
+<presentation>
+    <slide timer="5">
+		<text size="0.1"><![CDATA[Blender-Brussels
+2012-2014]]>
+        </text>
+    </slide>
+    <slide timer="5">
+		<img src="assets/blender-brussels-logo-2.png" title="Logo of Blender-Brussels" />
+    </slide>
+    <slide timer="7">
+        <text size="0.1"><![CDATA[Free and open monthly workshops
+focusing on Python coding
+in the context of Blender]]>
+        </text>
+    </slide>
+	<slide timer="7">
+		<img src="assets/render0005.png" title="Generative art"/>
+    </slide>
+    <slide timer="7">
+        <text size="0.1"><![CDATA[Python scripting is good
+for interfacing with other tools like a Kinect]]>
+        </text>
+    </slide>
+    <slide timer="62">
+        <video src="assets/Blender_Melon_Kinect_Blender_bpy_bge_Brussels.mp4" title="Pushing bricks with the Kinect"/>
+    </slide>
+    <slide timer="7">
+		<text size="0.1"><![CDATA[Python scripting is fun
+for playing with lots of images]]>
+        </text>
+    </slide>
+    <slide timer="57">
+        <video src="assets/Blender_Brussels_Workshop_2013-03-29_zoom.mp4" title="Zoom to nowhere"/>
+    </slide>
+    <slide timer="6">
+		<text size="0.1"><![CDATA[Python scripting is ideal
+for beginners and
+advanced programmers]]>
+        </text>
+    </slide>
+    <slide timer="5">
+		<img src="assets/pbge.png" title="Processing BGE"/>
+    </slide>
+    <slide timer="7">
+		<text size="0.1"><![CDATA[It can be advanced 3D Graphics:
+		
+Shaders!!!]]>
+        </text>
+    </slide>
+    <slide timer="53">
+        <video src="assets/shaders.mp4" title="Shaders in realtime"/>
+    </slide>
+    <slide timer="5">
+		<text size="0.1"><![CDATA[Or simple image manipulation]]></text>
+    </slide>
+    <slide timer="7">
+		<img src="assets/video-edit.jpg" title="Video sequencer compositing"/>
+    </slide>
+    <slide timer="10">
+		<text size="0.08"><![CDATA[Even this presentation is done in Blender
+and runs in realtime.
+Did you pick up the mouse yet?]]>
+        </text>
+    </slide>
+    <slide timer="5">
+		<img src="assets/crowd.jpg" title="With the BBUG"/>
+    </slide>
+    <slide timer="5">
+        <text size="0.08"><![CDATA[Thanks to:
+André, David, François, Hilde,
+Julien, Laura, Larisa, Michael, 
+Michel, Ofer, Olivier, Pieter, 
+Philippe, Quentin, Sophie, Vincent,...]]>
+        </text>
+    </slide>
+    <slide timer="5">
+		<img src="assets/francois.jpg" title="Want more?"/>
+    </slide>
+    <slide timer="7">
+        <text size="0.08"><![CDATA[This presentation 
+and all the examples shown here
+can be freely downloaded
+from our website]]>
+        </text>
+    </slide>
+    <slide timer="7">
+        <text size="0.1"><![CDATA[http://blender-brussels.github.io]]></text>
+    </slide>
+</presentation>
