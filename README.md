@@ -14,7 +14,7 @@ Howto
 Info
 ----
 
-*This project was initiated during [one of the Blender-Brussels workshop](http://blender-brussels.github.io/articles/blender-as-presentation-software/) and thus credits go to François, Hilde, Julien, Michel, Olivier and Philippe*
+*This project was initiated during [one of the Blender-Brussels workshop](http://blender-brussels.github.io/articles/blender-as-presentation-software/) and thus credits go to David, François, Hilde, Julien, Michel, Olivier and Philippe for this*
 
 The scripts are licensed under GnuGPL.  
 All content inside assets/ folder is licensed under Free Art License.   
